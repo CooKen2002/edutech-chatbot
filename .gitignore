@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# Flask instance folder (config, DB files, cache)
+instance/
+.webassets-cache/
+
+# VSCode settings folder
+.vscode/
+
+# Pytest / coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# macOS system files
+.DS_Store
+
+# Python environment tool files
+Pipfile.lock
+poetry.lock
+
+# Environment variable files
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Type checking cache (mypy, pyright)
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyCharm IDE files
+.idea/
+
+# Log and temporary files
+*.log
+*.tmp
+*.temp
+
+# Ignore trained models folder
+backend/app/services/training/models/

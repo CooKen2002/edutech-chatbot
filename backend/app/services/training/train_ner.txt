@@ -1,0 +1,9262 @@
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+toán	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+toán	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+toán	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+vật	B-MONHOC
+lý	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+vật	B-MONHOC
+lý	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+toán	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+vật	B-MONHOC
+lý	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+vật	B-MONHOC
+lý	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+vật	B-MONHOC
+lý	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+vật	B-MONHOC
+lý	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+vật	B-MONHOC
+lý	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+vật	B-MONHOC
+lý	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+toán	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+toán	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+vật	B-MONHOC
+lý	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+toán	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+toán	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+hóa	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+vật	B-MONHOC
+lý	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+toán	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+vật	B-MONHOC
+lý	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+vật	B-MONHOC
+lý	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+toán	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+tập	B-SOTHICH
+gym	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đi	B-SOTHICH
+du	I-SOTHICH
+lịch	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+toán	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+thiết	B-MONHOC
+kế	I-MONHOC
+đồ	I-MONHOC
+họa	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+nghe	B-SOTHICH
+nhạc	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+toán	B-MONHOC
+học	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+vật	B-MONHOC
+lý	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+ngôn	B-MONHOC
+ngữ	I-MONHOC
+lập	I-MONHOC
+trình	I-MONHOC
+Java	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+bóng	B-SOTHICH
+đá	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+khoa	B-MONHOC
+học	I-MONHOC
+máy	I-MONHOC
+tính	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+guitar	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+trí	B-MONHOC
+tuệ	I-MONHOC
+nhân	I-MONHOC
+tạo	I-MONHOC
+không	O
+?	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+.	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+vật	B-MONHOC
+lý	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+toán	B-MONHOC
+học	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Em	O
+muốn	O
+tham	O
+gia	O
+khóa	O
+học	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+lập	B-MONHOC
+trình	I-MONHOC
+Python	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chơi	B-SOTHICH
+cờ	I-SOTHICH
+vua	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+vật	B-MONHOC
+lý	I-MONHOC
+không	O
+?	O
+
+Sở	O
+thích	O
+của	O
+tôi	O
+là	O
+đọc	B-SOTHICH
+sách	I-SOTHICH
+.	O
+
+Khóa	O
+học	O
+tiếng	B-MONHOC
+Anh	I-MONHOC
+bắt	O
+đầu	O
+vào	O
+tuần	O
+tới	O
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+chạy	B-SOTHICH
+bộ	I-SOTHICH
+.	O
+
+Tôi	O
+muốn	O
+học	O
+hóa	B-MONHOC
+học	I-MONHOC
+.	O
+
+Tôi	O
+thích	O
+chơi	O
+vẽ	B-SOTHICH
+tranh	I-SOTHICH
+.	O
+
+Bạn	O
+có	O
+thích	O
+phát	B-MONHOC
+triển	I-MONHOC
+phần	I-MONHOC
+mềm	I-MONHOC
+không	O
+?	O
+
+Tôi	O
+thích	O
+chơi	O
+đạp	B-SOTHICH
+xe	I-SOTHICH
+.	O
+
