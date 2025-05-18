@@ -18,7 +18,7 @@ Built with **Flask**, connected to **MongoDB** for data storage, and incorporate
 
 - Python 3.9 or higher
 - MongoDB server (local or remote)
-- See [`requirements.txt`](./requirements.txt) for full Python dependencies
+- See [`requirement.txt`](./requirement.txt) for full Python dependencies
 
 ## ⚙️ Setup & Installation
 
