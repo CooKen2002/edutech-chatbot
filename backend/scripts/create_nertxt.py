@@ -1,3 +1,5 @@
+# File: scripts/create_nertxt.py
+
 import random
 import os
 
@@ -10,12 +12,18 @@ file_path = os.path.join(save_dir, "train_ner.txt")
 monhoc_list = [
     "toán học", "tiếng Anh", "lập trình Python", "vật lý", "hóa học",
     "khoa học máy tính", "thiết kế đồ họa", "phát triển phần mềm",
-    "ngôn ngữ lập trình Java", "trí tuệ nhân tạo"
+    "ngôn ngữ lập trình Java", "trí tuệ nhân tạo",
+    "khoa học dữ liệu", "machine learning", "deep learning",
+    "mạng máy tính", "phát triển web", "thiết kế UX/UI",
+    "an ninh mạng", "hệ điều hành", "phân tích dữ liệu"
 ]
 
 sothich_list = [
     "bóng đá", "đọc sách", "chơi guitar", "vẽ tranh", "đi du lịch",
-    "chơi cờ vua", "chạy bộ", "đạp xe", "tập gym", "nghe nhạc"
+    "chơi cờ vua", "chạy bộ", "đạp xe", "tập gym", "nghe nhạc",
+    "nấu ăn", "làm bánh", "chụp ảnh", "leo núi",
+    "xem phim", "mua sắm", "thể thao điện tử",
+    "thử thách trí tuệ", "sáng tạo nội dung"
 ]
 
 def create_ner_sentence(template, entity_list, entity_label):
@@ -44,27 +52,29 @@ def create_ner_sentence(template, entity_list, entity_label):
 
     return list(zip(words, labels))
 
-def generate_data(num_samples=100):
+def generate_data(num_samples=10000):
     templates = [
         "Tôi muốn học <ENTITY> .",
         "Bạn có thích <ENTITY> không ?",
         "Khóa học <ENTITY> bắt đầu vào tuần tới .",
         "Tôi thích chơi <ENTITY> .",
         "Sở thích của tôi là <ENTITY> .",
-        "Em muốn tham gia khóa học <ENTITY> ."
+        "Em muốn tham gia khóa học <ENTITY> .",
+        "Mình muốn trở thành chuyên gia về <ENTITY> .",
+        "Cách tốt nhất để học <ENTITY> là gì ?",
+        "Mình đam mê <ENTITY> và muốn tìm hiểu thêm .",
+        "Hãy giới thiệu khóa học <ENTITY> cho tôi .",
+        "Tôi muốn đăng ký lớp học <ENTITY> .",
+        "Tại sao <ENTITY> lại quan trọng ?",
+        "Tôi nên bắt đầu học <ENTITY> như thế nào ?",
+        "Làm sao để cải thiện kỹ năng <ENTITY> ?",
+        "Mình muốn biết kiến thức cơ bản về <ENTITY> ."
     ]
 
     data = []
-    for _ in range(num_samples):
-        # Lấy môn học
-        template = random.choice(templates[:3])
-        sent_label = create_ner_sentence(template, monhoc_list, "MONHOC")
-        data.append(sent_label)
-
-        # Lấy sở thích
-        template = random.choice(templates[3:])
-        sent_label = create_ner_sentence(template, sothich_list, "SOTHICH")
-        data.append(sent_label)
+    for _ in range(num_samples // 2):
+        data.append(create_ner_sentence(random.choice(templates), monhoc_list, "MONHOC"))
+        data.append(create_ner_sentence(random.choice(templates), sothich_list, "SOTHICH"))
 
     return data
 
@@ -76,6 +86,6 @@ def save_to_file(data):
             f.write("\n")  # Cách câu bằng dòng trống
 
 if __name__ == "__main__":
-    ner_data = generate_data(500)  # Số lượng câu tùy chọn
+    ner_data = generate_data(10000)  # Số lượng câu là 10,000
     save_to_file(ner_data)
     print(f"Đã tạo file train_ner.txt với {len(ner_data)} câu tại: {file_path}")
