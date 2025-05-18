@@ -1,4 +1,4 @@
-# EduuTech Chatbot Backend
+# EduTech Chatbot Backend
 
 ## 🚀 Project Overview
 
