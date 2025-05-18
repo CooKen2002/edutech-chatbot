@@ -93,3 +93,11 @@ Ensure all Python dependencies match versions in requirements.txt.
 For large NLP models, GPU with CUDA is recommended for faster training.
 
 ## Happy coding and learning! 🎉
+
+DEBUG=True
+SECRET_KEY=your-secret-key-here
+MONGODB_URI=mongodb://localhost:27017/edutech_chatbot
+MONGODB_DB=edutech_chatbot
+JWT_SECRET_KEY=your-jwt-secret-key
+JWT_EXPIRES=3600
+FLASK_ENV=development
